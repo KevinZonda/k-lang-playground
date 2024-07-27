@@ -16,6 +16,8 @@
                 else: !0,
                 for: !0,
                 fn: !0,
+                fx: !0,
+                func: !0,
                 if: !0,
                 open: !0,
                 as: !0,
